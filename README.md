@@ -2,7 +2,7 @@
 
 ## ✨ Junie da JetBrains em Ação
 
-Este projeto foi desenvolvido com o auxílio da **Junie**, o novo smart agent integrado ao IDE da JetBrains (a partir da versão 2025.1). A Junie atua como uma assistente de desenvolvimento inteligente, capaz de entender a estrutura do código, sugerir melhorias e até gerar implementações completas com base em instruções naturais.
+Este projeto foi desenvolvido com o auxílio da **Junie**, o novo smart agent integrado ao IDE da JetBrains (a partir da versão 2025.1). A Junie atua como uma assistente de desenvolvimento inteligente e capaz de entender a estrutura do código com base em instruções naturais.
 
 ## 💡 O que foi feito
 
